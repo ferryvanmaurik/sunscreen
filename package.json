@@ -1,0 +1,14 @@
+{
+  "name": "sunscreen",
+  "version": "1.0.0",
+  "description": "Control my sunscreen with Alexa and Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ferry van Maurik",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.1.0"
+  }
+}
